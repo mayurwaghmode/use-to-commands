@@ -27,7 +27,7 @@ In Linux, everything is treated as a file:
 lsof [options]
 ```
 
-##🔹 Common Use Cases
+## 🔹 Common Use Cases
 ###✅ 1. Find which process is using a specific port
 
 ```bash
@@ -40,7 +40,7 @@ Debug “Port already in use” errors
 
 Identify service bound to a specific port
 
-###✅ 2. List files opened by a specific process (PID)
+### ✅ 2. List files opened by a specific process (PID)
 ```bash
 lsof -p <PID>
 ```
