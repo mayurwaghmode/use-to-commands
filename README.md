@@ -28,7 +28,7 @@ lsof [options]
 ```
 
 ## 🔹 Common Use Cases
-###✅ 1. Find which process is using a specific port
+### ✅ 1. Find which process is using a specific port
 
 ```bash
 lsof -i :8080
@@ -138,7 +138,7 @@ Investigate suspicious traffic
 Analyze connection states (TIME_WAIT, CLOSE_WAIT)
 ```
 
-✅ 4. Show routing table
+### ✅ 4. Show routing table
 ```bash
 netstat -r
 
